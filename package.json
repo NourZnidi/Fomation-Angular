@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@clr/angular": "^17.0.1",
+    "@clr/core": "^4.0.15",
+    "@clr/icons": "^13.0.2",
+    "@clr/ui": "^17.0.1",
+    "@webcomponents/webcomponentsjs": "^2.8.0"
+  }
+}
